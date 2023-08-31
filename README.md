@@ -7,5 +7,5 @@
 * First paragraph of unordered list.
 * Second paragraph of unordered list. <br> <br>
 
-[Telegram] (https://t.me/Samxcuts "Ссылка на мой телеграмм")
+[Telegram](https://t.me/Samxcuts "Ссылка на мой телеграмм")
 
